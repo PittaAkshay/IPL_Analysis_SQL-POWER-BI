@@ -1,7 +1,8 @@
 # IPL_Analysis_SQL-POWER-BI
 This project is a comprehensive **Power BI Dashboard** analyzing IPL statistics from 2008 to 2024. Using SQL queries and datasets of matches and ball-by-ball deliveries, the dashboard gives visual insights into top-performing teams, players, and venues.
 
-![IPL Dashboard Screenshot](IPL DASHBOARD)
+![IPL Dashboard Screenshot](IPL%20DASHBOARD.png)
+
 
 ## 📊 Dashboard Features
 - Total Runs, Wickets, Fours, Sixes, Super Overs
